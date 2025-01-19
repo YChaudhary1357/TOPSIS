@@ -1,6 +1,6 @@
 from re import S
 import numpy as np
-def function(a, b, w,t):
+def Topsis(a, b, w,t):
     c = []
     for i in range(a):
         row = list(map(float, input(f'Enter values for row {i+1} separated by space: ').split()))
