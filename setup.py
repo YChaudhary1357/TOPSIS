@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='topsis_package',
+    name='topsis_package_102217256',
     version='0.1',
     packages=find_packages(),
     install_requires=['numpy'],
@@ -10,7 +10,7 @@ setup(
     description='A Python library for performing TOPSIS analysis',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/YChaudhary1357/TOPSIS',  
+    url='https://github.com/YChaudhary1357/TOPSIS_102217256',  
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
