@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='topsis_package_102217256',
+    name='topsis_102217256',
     version='0.1',
     packages=find_packages(),
     install_requires=['numpy'],
